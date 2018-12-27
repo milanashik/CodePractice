@@ -16,5 +16,13 @@ class NumberChairsTest {
         int result = obj.Solution(S,E);
         assertEquals(3, result);
 	}
+	
+	@Test
+	void test1() {
+		int[] S = {1,2,3,4,6};
+        int[] E = {5,5,5,5,8};
+        int result = obj.Solution(S,E);
+        assertEquals(4, result);
+	}
 
 }

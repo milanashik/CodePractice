@@ -16,7 +16,7 @@ public class NumberChairs {
 		
 		while(i< a.length && j< a.length)
 		{
-			if(a[i] <= b[j])
+			if(a[i] < b[j])
 			{
 				counter++;
 				i++;
