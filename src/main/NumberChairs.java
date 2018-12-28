@@ -1,3 +1,8 @@
+/* int a[] has a arrival time of quests and b[] has departure time in the room. 
+ * Calculate the  maximum numbers of chairs needed in that room so that all quest
+ * can be seated.  
+ * */
+
 package main;
 
 import java.util.Arrays;
