@@ -1,4 +1,5 @@
 # CodePractice
 My code repo
 
--- Solution to Questions from Leetcode
+-- Practice Questions from Leetcode
+-- https://leetcode.com/problemset/all/
